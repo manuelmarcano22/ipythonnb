@@ -1,6 +1,4 @@
 # Jupyter Notebooks  [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/manuelmarcano22/ipythonnb)
-======
-Collection of notebooks for different purposes.
 
 ## 1. Estimation Example:
  
