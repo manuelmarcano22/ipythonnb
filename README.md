@@ -1,4 +1,4 @@
-# Jupyter Notebooks  [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/manuelmarcano22/jupyternb)
+# Jupyter Notebooks  [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/manuelmarcano22/jupyternb) 
 
 Collection of notebooks for different purposes.
 
